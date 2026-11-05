@@ -123,7 +123,7 @@ public class examenU2 {
             peso = teclado.nextInt();
         }
 
-        System.out.println("\n===== RESULTADOS FINALES =====");
+        System.out.println("===== RESULTADOS FINALES =====");
 
         System.out.println("Paquetes aceptados: " + aceptados);
         System.out.println("Paquetes rechazados: " + rechazados);
